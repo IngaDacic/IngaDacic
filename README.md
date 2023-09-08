@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IngaDacic
-- 👀 I’m interested in becoming moe than just a stay at home mom
 - 🌱 I’m currently learning Data Analytics
 
 
