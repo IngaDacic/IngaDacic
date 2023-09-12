@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IngaDacic
-- 🌱 I’m constantly seeking new Data Analytic knowledge. 
+- 🌱 “Knowledge is of no value unless you put it into practice.” – Anton Chekhov.
 
 
 
