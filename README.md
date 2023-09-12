@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IngaDacic
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m constantly seeking new Data Analytics knowledge. 
 
 
 
